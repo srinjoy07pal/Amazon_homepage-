@@ -25,6 +25,8 @@
     border: 2px solid transparent
 }
 .border:hover{
+    border: 1.3px solid white;
+
     cursor: pointer;
 }
 /* box2 */
@@ -386,6 +388,7 @@ padding-top: 5px;
 margin-top: 5px;
 }
 .pages a{
+    padding-top :25px;
     color: #CCCCCC;
 }
 /* adding hover effects on the links in the shopping section */
